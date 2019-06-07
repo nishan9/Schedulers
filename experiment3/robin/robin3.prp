@@ -1,0 +1,7 @@
+scheduler=RRScheduler
+timeLimit=10000
+periodic=false
+interruptTime=0
+timeQuantum=20
+initialBurstEstimate=10
+alphaBurstEstimate=0.5
